@@ -14,6 +14,7 @@ This project implements a liveness detection system using deep learning, specifi
 ## Datasets
 
 - **CelebA_Spoof**: Used for training and testing. The dataset is preprocessed to detect and crop faces, then normalized for input to the model.
+- https://github.com/ZhangYuanhan-AI/CelebA-Spoof
 - **NUAA**: Used for cross-dataset evaluation to test generalization.
 
 ## Model
